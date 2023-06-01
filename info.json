@@ -1,0 +1,15 @@
+{
+	"count": 2,
+	"journals": {
+		"the-money-stuff": {
+			"name": "Money and About it",
+			"date": "01-06-2023",
+			"path": "journals/money-stuff.md"
+		},
+		"start-of-journaling": {
+			"name": "Start of Journaling",
+			"date": "31-05-2023",
+			"path": "journals/start-of-journaling.md"
+		}
+	}
+}
